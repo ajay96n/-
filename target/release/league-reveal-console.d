@@ -1,0 +1,1 @@
+/workspace/target/release/league-reveal-console: /workspace/src/analytics.rs /workspace/src/champ_select.rs /workspace/src/lcu_client.rs /workspace/src/lobby.rs /workspace/src/main.rs /workspace/src/region.rs /workspace/src/summoner.rs /workspace/src/utils.rs
