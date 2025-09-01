@@ -1,0 +1,8 @@
+/workspace/lol_auto_opener/target/release/deps/libdisplaydoc-96beea8a45ce845a.so: /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/displaydoc-0.2.5/src/lib.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/displaydoc-0.2.5/src/attr.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/displaydoc-0.2.5/src/expand.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/displaydoc-0.2.5/src/fmt.rs
+
+/workspace/lol_auto_opener/target/release/deps/displaydoc-96beea8a45ce845a.d: /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/displaydoc-0.2.5/src/lib.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/displaydoc-0.2.5/src/attr.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/displaydoc-0.2.5/src/expand.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/displaydoc-0.2.5/src/fmt.rs
+
+/usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/displaydoc-0.2.5/src/lib.rs:
+/usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/displaydoc-0.2.5/src/attr.rs:
+/usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/displaydoc-0.2.5/src/expand.rs:
+/usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/displaydoc-0.2.5/src/fmt.rs:
